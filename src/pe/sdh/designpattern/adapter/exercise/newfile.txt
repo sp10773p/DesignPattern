@@ -1,0 +1,5 @@
+#written by FileProperties
+#Wed Jul 27 23:23:10 KST 2016
+day=21
+year=2004
+month=4
